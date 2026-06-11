@@ -4,7 +4,7 @@
     font-family: "hanken grotesk";
     
 }
-html{
+.design{
         transform: scale(160%);
 
 }
@@ -184,4 +184,8 @@ img{
         margin-bottom: 1rem;
         padding: 1.2rem 1rem;
     }
+    html{
+        transform: scale(100%);
+
+}
 }
