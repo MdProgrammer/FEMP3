@@ -4,6 +4,10 @@
     font-family: "hanken grotesk";
     
 }
+html{
+        transform: scale(160%);
+
+}
 :root{
     font-size: 62.5%;
 
@@ -92,7 +96,7 @@ a{
     text-align: center;
     border-radius: 2rem;
     margin-bottom: 1rem;
-    transition: 0.5;
+    transition: 0.5s;
 }
 a:hover, a:active{
     background-image:linear-gradient( hsl(252, 100%, 67%), hsl(241, 81%, 54%));
